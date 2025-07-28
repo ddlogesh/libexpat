@@ -32,6 +32,7 @@ expat.pc
 /libexpat.so.*
 /run.sh
 build__R*
+build
 coverage__R*
 source__R*
 /expat-*.tar.*
